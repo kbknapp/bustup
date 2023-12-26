@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.76"
 clap = { version = "4.4.11", features = ["derive"] }
+enum_delegate = "0.2.0"
